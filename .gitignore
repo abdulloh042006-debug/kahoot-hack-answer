@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+test-request.json
+patch_bridge.py
